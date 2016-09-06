@@ -1,1 +1,1 @@
-Copyright 2016 Brendan Manning
+Copyright 2016 Brendan Manning, All rights reserved
